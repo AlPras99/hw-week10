@@ -68,3 +68,8 @@ machtwatch@MACHTWATCHs-MacBook-Pro-6 ~ %
 - select extension
 - search go and install
 <img width="313" alt="image" src="https://user-images.githubusercontent.com/85268103/160521356-4269e963-542b-418c-8cf4-ad74b03e5668.png">
+## Go CLI
+<img width="714" alt="image" src="https://user-images.githubusercontent.com/85268103/160522127-641fe4aa-2860-495a-8b49-e6b85f3fbe31.png">
+
+
+
