@@ -66,6 +66,5 @@ machtwatch@MACHTWATCHs-MacBook-Pro-6 ~ %
 - Open Vs Code
 - select view 
 - select extension
-<img width="326" alt="image" src="https://user-images.githubusercontent.com/85268103/160521291-773f4a95-ec80-4e79-869e-3b121231d364.png">
 - search go and install
 <img width="313" alt="image" src="https://user-images.githubusercontent.com/85268103/160521356-4269e963-542b-418c-8cf4-ad74b03e5668.png">
